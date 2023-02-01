@@ -1,0 +1,11 @@
+ion-item {
+    position: flex;
+    left: 0;
+    right: 0;
+    top: 25%;
+    transform: translateY(-50%);
+}
+
+strong {
+    font-size: 40px;
+}
